@@ -1,3 +1,4 @@
 most of it involved, sticking the study guide into an online decoder, and using the same encription technique to decrypt the flag
-the python file, didnt seem to lead to much.
+the python file, didnt seem to lead to much, it was some encription code, but couldnt be used to decrypt(im not great at python)
+
 flag = picoCTF{perhaps_the_dog_jumped_over_was_just_tired}
