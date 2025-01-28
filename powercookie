@@ -1,0 +1,4 @@
+flag = picoCTF{gr4d3_A_c00k13_0d351e23}
+
+opened the instance, inspected the page, when the button to continue is pressed, a "check.php" appears in networks, going through it, you see a cookie with the admin switch
+turned to false, going to application, and listing out the cookie, changing the isadmin to 1, allows you to find the flag.
